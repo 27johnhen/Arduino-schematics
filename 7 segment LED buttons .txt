@@ -1,0 +1,4 @@
+d2-d5 to 7segment
+d6-d12 to buttons
+A0+A1 to buttons
+A2-A5 to 7segment

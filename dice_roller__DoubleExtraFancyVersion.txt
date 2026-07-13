@@ -1,0 +1,10 @@
+unod2.lcdrs
+unod3.lcde
+unod4.lcdd4
+unod5.lcdd5
+unod6.lcdd6
+unod7.lcdd7
+unod8.relay
+unod9.button
+9vbatt+.motor+
+9vbatt-.relay.motor-

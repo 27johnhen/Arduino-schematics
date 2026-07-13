@@ -1,0 +1,26 @@
+megad7.lcdrs
+megad8.lcde
+megad9.lcdd4
+megad10.lcdd5
+megad11.lcdd6
+megad12.lcdd7
+megad34.switch.ground
+megad36.switch.ground
+megad37.switch.ground
+megad38.led.330ohms.ground
+megad39.switch.ground
+megad40.led.330ohms.ground
+megad41.switch.ground
+megad42.led.330ohms.ground
+megad43.led.330ohms.ground
+megad44.led.330ohms.ground
+megad45.led.330ohms.ground
+megad46.led.330ohms.ground
+megad47.led.330ohms.ground
+megad48.switch.ground
+megad49.led.330ohms.ground
+megad50.switch.ground
+megad51.switch->speaker
+        '->10kohms.headphones
+megad52.switch.ground
+megad53.switch.ground
